@@ -77,12 +77,6 @@ streamlit run streamlit_run.py
 - Shows a message like "Waiting for live data..." when no data is available.
 
 ---
-### 📊 **Streamlit Frontend**
-<img width="954" alt="Capture1234" src="https://github.com/user-attachments/assets/2cdd8f8a-906d-46f7-9954-db8f203430d6" />
-- **Real-Time Intrusion Detection**: Detects objects using YOLO and triggers alerts when specific objects enter a restricted area.
-- **Restricted Area**: Defines a central restricted area to monitor violations.
-- **Sound Alerts**: Triggers sound alerts when an object enters the restricted area.
-- **Detection Logging**: Logs detection data to a CSV file when a restricted area violation occurs.
 
 ---
 
